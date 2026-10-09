@@ -1,0 +1,8 @@
+{
+  "name": "RESQ-X ",
+  "description": "AI-Powered Search and Rescue Rover system interface. Smarter Technology. Safer Rescues.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
